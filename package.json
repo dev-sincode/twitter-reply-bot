@@ -1,0 +1,20 @@
+{
+  "name": "twitter-reply-bot",
+  "version": "1.0.0",
+  "description": "Replying twitter bot that Greets your the twitter handle that follows you",
+  "main": "bot.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Dhaval",
+  "license": "ISC"
+}
