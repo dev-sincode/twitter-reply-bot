@@ -4,7 +4,7 @@
   "description": "Replying twitter bot that Greets your the twitter handle that follows you",
   "main": "bot.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "twit": "^2.2.11"
   },
   "devDependencies": {},
